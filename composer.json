@@ -1,0 +1,14 @@
+{
+    "name": "totop275/webhook-broadcaster",
+    "description": "Broadcast webhook to multiple endpoint",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Toto Prasetyo",
+            "email": "totop275@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.0"
+    }
+}
